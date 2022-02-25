@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72252252959",
+    "project_id": "signupform-3362b",
+    "storage_bucket": "signupform-3362b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72252252959:android:bf12da93bd341c0fd3862a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72252252959-463sikv4okvftfthgivp5b0oencpnqui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWn84uaQljg8xXC1BJH-3u8V-WeoJG7j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72252252959-463sikv4okvftfthgivp5b0oencpnqui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
